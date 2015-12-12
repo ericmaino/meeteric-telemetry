@@ -8,7 +8,6 @@
     <owners>MeetEric.NET</owners>
     <licenseUrl>https://raw.githubusercontent.com/ericmaino/meeteric-telemetry/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/ericmaino/meeteric-telemetry</projectUrl>
-    <iconUrl></iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>A core set of portable telemetry interfaces and factories that can be used across many applications.</description>
     <releaseNotes></releaseNotes>
